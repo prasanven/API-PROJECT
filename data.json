@@ -1,0 +1,17 @@
+[
+    {
+        "username": "testuser",
+        "password": "$2y$12$FhUq77pvqqX3I8rTExyl.u6Kl7C.vX\/ra3yMXLxLvtuCeZ7Mr8nMW",
+        "token": "331c5c8fd16398b32d261eeb3ea30f67"
+    },
+    {
+        "username": "testuser1",
+        "password": "$2y$12$qJN07dspNU665tEGQlTC8e.GJC9MwGyP5oXhYqZgbB2RHT9eEokA2",
+        "token": "3d514406c615fd60f4a476c81b767863"
+    },
+    {
+        "username": "testuser2",
+        "password": "$2y$12$2Za60cXafO6hsq0mEcOZ5.cLM82ZCSLB7VKHEM0gKlylkYqZmAy9m",
+        "token": "29fa9db2abb30fddb203160e15be280d"
+    }
+]
